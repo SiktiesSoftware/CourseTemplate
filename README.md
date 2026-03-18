@@ -72,8 +72,8 @@ Before starting this course, please ensure you have the following installed on y
 
 | **[Damien Loup](https://github.com/dam277)** | 
 | :---: | 
-| [![Damien Loup](https://avatars.githubusercontent.com/u/60733960?v=4&s=200)](https://github.com/dam277) |
-| 👑 *Course Creator |
+| [![Damien Loup](https://avatars.githubusercontent.com/u/60733960?v=4&s=150)](https://github.com/dam277) |
+| 👑 *Course Creator* |
 
 ---
 
