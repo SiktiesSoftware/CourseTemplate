@@ -53,21 +53,6 @@ Before starting this course, please ensure you have the following installed on y
 * **Topics Covered:** Semantic HTML, CSS Flexbox & Grid, CSS animations, Responsive Design.
 * **Link:** [Go to Chapter 1](./01-frontend-basics)
 
-### Chapter 2: JavaScript & React Fundamentals
-* **Description:** Bringing interactivity to the web using React.
-* **Topics Covered:** ES6+ syntax, React Hooks (useState, useEffect), Props, Component lifecycle.
-* **Link:** [Go to Chapter 2](./02-react-fundamentals)
-
-### Chapter 3: Backend & APIs with Node.js
-* **Description:** Setting up the server and connecting to a database.
-* **Topics Covered:** Express routing, RESTful APIs, MongoDB with Mongoose, JWT Authentication.
-* **Link:** [Go to Chapter 3](./03-backend-node)
-
-### Chapter 4: The Final Project (E-Commerce Store)
-* **Description:** Combining everything into a full-stack, deployable project.
-* **Topics Covered:** Shopping cart logic, Stripe payment integration, Vercel/Render deployment.
-* **Link:** [Go to Final Project](./04-final-project)
-
 ---
 
 ## How to Use This Repository
@@ -85,15 +70,10 @@ Before starting this course, please ensure you have the following installed on y
 
 ## Contributors
 
-A huge thank you to the teaching team and community members who maintain these resources:
-
-| Name | Role | GitHub |
-| :--- | :--- | :--- |
-| **Sarah Jenkins** | Lead Instructor | [@sarahcodes](https://github.com/sarahcodes) |
-| **David Chen** | Backend Teaching Assistant | [@dchen_dev](https://github.com/dchendev) |
-| **Elena Rodriguez** | Community Moderator & QA | [@elena_r](https://github.com/elenar) |
-
-*Found a typo or a broken code snippet? Please open an Issue or submit a Pull Request. We review community contributions weekly!*
+| **[Damien Loup](https://github.com/dam277)** | **[Sarah Jenkins](https://github.com/sarahcodes)** | **[David Chen](https://github.com/dchendev)** |
+| :---: |
+| [![Damien Loup](https://avatars.githubusercontent.com/u/60733960?v=4)](https://github.com/dam277) |
+| 👑 *Course Creator & Lead Instructor* |
 
 ---
 
