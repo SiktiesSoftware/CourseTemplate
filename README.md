@@ -70,9 +70,9 @@ Before starting this course, please ensure you have the following installed on y
 
 ## Contributors
 
-| **[Damien Loup](https://github.com/dam277)** | **[Sarah Jenkins](https://github.com/sarahcodes)** | **[David Chen](https://github.com/dchendev)** |
-| :---: |
-| [![Damien Loup](https://avatars.githubusercontent.com/u/60733960?v=4)](https://github.com/dam277) |
+| **[Damien Loup](https://github.com/dam277)** | 
+| :---: | 
+| [![Damien Loup](https://avatars.githubusercontent.com/u/60733960?v=4&s=250)](https://github.com/dam277) |
 | 👑 *Course Creator & Lead Instructor* |
 
 ---
